@@ -27,3 +27,7 @@ And then they withhold the installer anyway, leaving users with no realistic opt
 
 If you’re considering FileZilla Pro, understand exactly what you are walking into:
 You can pay for a perpetual license, and later be denied any way to reinstall the product you legally own.
+
+### Copyright
+
+Tim Kosse, FileZilla author and trademark owner
