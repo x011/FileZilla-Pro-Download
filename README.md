@@ -34,4 +34,4 @@ Although “Zilla” appears in the name, the FileZilla project is **not** affil
 
 ### Copyright
 
-Tim Kosse, FileZilla author and trademark owner
+**Tim Kosse**, FileZilla author and trademark owner
