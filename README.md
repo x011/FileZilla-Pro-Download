@@ -31,3 +31,7 @@ You can pay for a perpetual license, and later be denied any way to reinstall th
 ### Copyright
 
 Tim Kosse, FileZilla author and trademark owner
+
+### Name clarification
+
+Although “Zilla” appears in the name, the FileZilla project is **not** affiliated with Mozilla in any way. The similarity in naming is **not coincidental**. Their intention is to deceive users into thinking this project is related to Mozilla so they can **sell perpetual licenses that do not persist across OS reinstalls**.
