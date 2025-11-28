@@ -36,6 +36,8 @@ Although “Zilla” appears in the name, the FileZilla project is **not** affil
 
 **Tim Kosse**, FileZilla author and trademark owner
 
+---
+
 ### My Perspective
 
-From my experience, I firmly believe that the real reason FileZilla refused to provide the installer - even though they were still delivering updates to the copy already installed on my machine - has far more to do with financial incentives than with security. The explanation simply doesn’t add up. In my view, the decision to withhold older installers functions as a way to push perpetual-license customers toward repurchasing under their newer business model.
+Based on my experience, I believe FileZilla’s refusal to provide the installer is driven by financial motives rather than security. In the very first email I received from support, before offering any real help, they immediately suggested that I buy the newest version and even offered me a discount. That interaction, combined with the fact that they were still providing updates to the copy already installed on my computer, makes the security explanation hard to accept and reinforces my belief that the real motive is financial.
