@@ -30,7 +30,7 @@ You can pay for a perpetual license, and later be denied any way to reinstall th
 
 ### Name clarification
 
-Although “Zilla” appears in the name, the FileZilla project is **not** affiliated with Mozilla in any way. The similarity in naming is **not coincidental**. Their intention is to deceive users into thinking this project is related to Mozilla so they can **sell perpetual licenses that do not persist across OS reinstalls**.
+Although “Zilla” appears in the name, the FileZilla project is not affiliated with Mozilla in any way. I mention this because, at the time I purchased FileZilla Pro, I personally assumed the project was connected to Mozilla. That assumption made me trust the product more than I should have, and I learned the truth the hard way.
 
 ### Copyright
 
