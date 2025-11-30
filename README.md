@@ -41,3 +41,10 @@ Although “Zilla” appears in the name, the FileZilla project is not affiliate
 ### My Perspective
 
 Based on my experience, I believe FileZilla’s refusal to provide the installer is driven by financial motives rather than security. In the very first email I received from support, before offering any real help, they immediately suggested that I buy the newest version and even offered me a discount. That interaction, combined with the fact that they were still providing updates to the copy already installed on my computer, makes the security explanation hard to accept and reinforces my belief that the real motive is financial.
+
+---
+
+### Discussion elsewhere
+
+This situation has also sparked some conversation on Hacker News. You can read more community discussion here:
+[https://news.ycombinator.com/item?id=46073279](https://news.ycombinator.com/item?id=46073279)
